@@ -76,6 +76,8 @@ We hold *Summer Groups* for:
 - Game Development
 - Machine Learning
 
+<img src="/images/backgrounds/blob1.svg" class="absolute -z-1 right-0 bottom-0 h-140 opacity-80" />
+
 ---
 layout: section
 ---
