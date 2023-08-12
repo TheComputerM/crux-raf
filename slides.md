@@ -111,6 +111,8 @@ layout: statement
 
 # Projects
 
+<img src="/images/backgrounds/blob2.svg" class="absolute -z-1 inset-0 w-full" />
+
 ---
 layout: intro-image-right
 image: ./images/chronofactorem.png
@@ -171,6 +173,7 @@ layout: fact
 # In Progress
 Stuff we are working on
 
+<img src="/images/backgrounds/blob3.svg" class="absolute -z-1 inset-x-0 bottom-0 w-screen" />
 
 ---
 layout: section
@@ -179,10 +182,11 @@ class: text-center
 
 # Rideshare
 
-A cab sharing app with bitsians
+A cab sharing app with BITSians
 
 https://github.com/crux-bphc/rideshare_flutter
 
+<img src="/images/backgrounds/blob4.svg" class="absolute -z-1 inset-x-0 bottom-0 w-screen opacity-40" />
 ---
 layout: section
 class: text-center
@@ -194,6 +198,7 @@ Machine learning based face ID and clustering to retrieve your photos from campu
 
 https://github.com/crux-bphc/snap-sorter
 
+<img src="/images/backgrounds/blob5.svg" class="absolute -z-1 inset-x-0 bottom-0 w-screen opacity-40" />
 
 ---
 layout: section
