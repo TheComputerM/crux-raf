@@ -11,7 +11,7 @@ fonts:
 
 THE PROGRAMMING AND COMPUTING CLUB
 
-<img src="/images/logo.png" class="absolute -right-28 -bottom-28 w-128 filter grayscale[]" />
+<img src="/images/logo.png" class="absolute -right-28 -bottom-28 w-128 filter grayscale" />
 
 ---
 layout: intro
