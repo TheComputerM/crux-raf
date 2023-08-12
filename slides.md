@@ -198,7 +198,7 @@ Machine learning based face ID and clustering to retrieve your photos from campu
 
 https://github.com/crux-bphc/snap-sorter
 
-<img src="/images/backgrounds/blob5.png" class="absolute -z-1 inset-x-0 bottom-0 w-screen opacity-40" />
+<img src="/images/backgrounds/blob5.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
 
 ---
 layout: section
