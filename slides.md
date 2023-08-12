@@ -187,6 +187,7 @@ A cab sharing app with BITSians
 https://github.com/crux-bphc/rideshare_flutter
 
 <img src="/images/backgrounds/blob4.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
+
 ---
 layout: section
 class: text-center
@@ -199,6 +200,18 @@ Machine learning based face ID and clustering to retrieve your photos from campu
 https://github.com/crux-bphc/snap-sorter
 
 <img src="/images/backgrounds/blob5.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
+
+---
+layout: section
+class: text-center
+---
+
+# Game Engine
+
+A game engine written completely from scratch in C++ using OpenGL.
+
+<img src="/images/backgrounds/blob6.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
+
 
 ---
 layout: section
