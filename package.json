@@ -1,0 +1,20 @@
+{
+  "name": "crux-raf",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.42.7",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  },
+  "devDependencies": {
+    "@iconify-json/mdi": "^1.1.54",
+    "@iconify-json/twemoji": "^1.1.12",
+    "@types/node": "^20.4.10"
+  }
+}
