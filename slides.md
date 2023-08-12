@@ -127,11 +127,23 @@ image: ./images/cms-app.png
 
 # CMS App
 
-Your snake friends might not notify you for surprise quizzes, but this app will.
-
+<div>
+  <p>
+  Your snake friends might not notify you for surprise quizzes, but this app will.
+  </p>
+  <div class="flex gap-4">
+  <div class="flex flex-col items-center">
+  <img src="/images/cms_qr.png" class="h-40">
+  <p>Android App</p>
+  </div>
+  <div class="flex flex-col items-center">
+  <img src="/images/cms_qr_ios.png" class="h-40">
+  <p>iOS App</p>
+  </div></div>
+</div>
 ---
-layout: section
-class: text-center
+layout: intro-image-right
+image: ./images/dsa_qr.png
 ---
 
 # DSA TRAINING 2023
@@ -141,8 +153,8 @@ Compiled Resources on Various DSA Topics
 https://github.com/crux-bphc/DSA-Training-2023
 
 ---
-layout: section
-class: text-center
+layout: intro-image-right
+image: ./images/chronoscript_qr.png
 ---
 
 # Chronoscript
