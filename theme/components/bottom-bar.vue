@@ -1,5 +1,5 @@
 <template>
-  <div class="absolute bottom-0 inset-x-0 text-sm px-4 py-1 bg-violet-600 flex items-center justify-between">
+  <div class="z-10 absolute bottom-0 inset-x-0 text-sm px-4 py-1 bg-violet-600 flex items-center justify-between">
     <div class="font-extrabold font-mono">
       <mdi-check-bold class="text-green-300" />
       CRUX
