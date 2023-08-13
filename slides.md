@@ -1,7 +1,7 @@
 ---
 theme: ./theme
 layout: intro
-title: Cruoooxing
+title: CRUx BPHC - RAF Presentation
 fonts:
   sans: JetBrains Mono
   mono: JetBrains Mono
@@ -11,7 +11,7 @@ fonts:
 
 THE PROGRAMMING AND COMPUTING CLUB
 
-<img src="/images/logo.png" class="absolute -right-28 -bottom-28 w-128 filter grayscale" />
+<img src="/assets/logo.png" class="absolute -right-28 -bottom-28 w-128 filter grayscale" />
 
 ---
 layout: intro
@@ -76,7 +76,7 @@ We hold *Summer Groups* for:
 - Game Development
 - Machine Learning
 
-<img src="/images/backgrounds/blob1.png" class="absolute right-0 bottom-0 h-140 filter grayscale opacity-75" />
+<img src="/assets/backgrounds/blob1.png" class="absolute right-0 bottom-0 h-140 filter grayscale opacity-75" />
 
 ---
 layout: section
@@ -101,8 +101,8 @@ layout: section
 # Progress
 
 <div class="flex h-48 justify-between">
-  <img src="/images/crux_github_old.png" />
-  <img src="/images/crux_github_new.png" />
+  <img src="/assets/crux_github_old.png" />
+  <img src="/assets/crux_github_new.png" />
 </div>
 
 ---
@@ -111,11 +111,11 @@ layout: statement
 
 # Projects
 
-<img src="/images/backgrounds/blob2.png" class="absolute inset-0 w-full" />
+<img src="/assets/backgrounds/blob2.png" class="absolute inset-0 w-full" />
 
 ---
 layout: intro-image-right
-image: ./images/chronofactorem.png
+image: ./assets/chronofactorem.png
 ---
 
 # ChronoFactorem
@@ -124,7 +124,7 @@ Helped 2.2k users make 3.2k timetables in two days. Hopefully helped you during 
 
 ---
 layout: intro-image-right
-image: ./images/cms-app.png
+image: ./assets/cms-app.png
 ---
 
 # CMS App
@@ -135,17 +135,17 @@ image: ./images/cms-app.png
   </p>
   <div class="flex gap-4">
   <div class="flex flex-col items-center">
-  <img src="/images/cms_qr.png" class="h-40">
+  <img src="/assets/cms_qr.png" class="h-40">
   <p>Android App</p>
   </div>
   <div class="flex flex-col items-center">
-  <img src="/images/cms_qr_ios.png" class="h-40">
+  <img src="/assets/cms_qr_ios.png" class="h-40">
   <p>iOS App</p>
   </div></div>
 </div>
 ---
 layout: intro-image-right
-image: ./images/dsa_qr.png
+image: ./assets/dsa_qr.png
 ---
 
 # DSA TRAINING 2023
@@ -156,7 +156,7 @@ https://github.com/crux-bphc/DSA-Training-2023
 
 ---
 layout: intro-image-right
-image: ./images/chronoscript_qr.png
+image: ./assets/chronoscript_qr.png
 ---
 
 # Chronoscript
@@ -173,7 +173,7 @@ layout: fact
 # In Progress
 Stuff we are working on
 
-<img src="/images/backgrounds/blob3.png" class="absolute inset-x-0 bottom-0 w-screen" />
+<img src="/assets/backgrounds/blob3.png" class="absolute inset-x-0 bottom-0 w-screen" />
 
 ---
 layout: section
@@ -186,7 +186,7 @@ A cab sharing app with BITSians
 
 https://github.com/crux-bphc/rideshare_flutter
 
-<img src="/images/backgrounds/blob4.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
+<img src="/assets/backgrounds/blob4.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
 
 ---
 layout: section
@@ -199,7 +199,7 @@ Machine learning based face ID and clustering to retrieve your photos from campu
 
 https://github.com/crux-bphc/snap-sorter
 
-<img src="/images/backgrounds/blob5.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
+<img src="/assets/backgrounds/blob5.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
 
 ---
 layout: section
@@ -210,9 +210,16 @@ class: text-center
 
 A game engine written completely from scratch in C++ using OpenGL.
 
-<img src="/images/backgrounds/blob6.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
+<img src="/assets/backgrounds/blob6.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
 
 
+---
+layout: quote
+---
+
+
+# "We're going to write so much software, you're going to be tired of all the software. You'll say 'please no stop it's too much software we can't take it anymore'"
+Soumitra Shewale, Dev Secretary
 ---
 layout: section
 ---
