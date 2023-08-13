@@ -5,15 +5,15 @@
       CRUX
     </div>
     <div class="flex items-center gap-2">
-      <span class="flex items-center gap-1">
+      <a href="https://github.com/crux-bphc" class="flex items-center gap-1">
         <mdi-github />
         crux-bphc
-      </span>
+      </a>
       <span class="border border-white/40 h-4"></span>
-      <span class="flex items-center gap-1">
+      <a href="https://crux-bphc.github.io/" class="flex items-center gap-1">
         <mdi-link />
         crux-bphc.com
-      </span>
+      </a>
     </div>
   </div>
 </template>
