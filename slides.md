@@ -143,6 +143,26 @@ image: ./assets/cms-app.png
   <p>iOS App</p>
   </div></div>
 </div>
+
+---
+layout: intro-image-right
+image: ./assets/rideshare-app.png
+---
+
+# Rideshare App
+
+<div>
+  <p>
+    <!--TODO: put in the right caption-->
+    lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit 
+  </p>
+  <div class="flex flex-col items-center">
+      <!--TODO: update this QR-->
+      <img src="/assets/cms_qr.png" class="h-40"> 
+      <p>Android App</p>
+  </div>
+</div>
+
 ---
 layout: intro-image-right
 image: ./assets/dsa_qr.png
@@ -175,18 +195,6 @@ Stuff we are working on
 
 <img src="/assets/backgrounds/blob3.png" class="absolute inset-x-0 bottom-0 w-screen" />
 
----
-layout: section
-class: text-center relative
----
-
-# Rideshare
-
-A cab sharing app with BITSians
-
-https://github.com/crux-bphc/rideshare_flutter
-
-<img src="/assets/backgrounds/blob4.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
 
 ---
 layout: section
@@ -212,18 +220,16 @@ A game engine written completely from scratch in C++ using OpenGL.
 
 <img src="/assets/backgrounds/blob6.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
 
-
 ---
 layout: quote
 ---
 
-
 # "We're going to write so much software, you're going to be tired of all the software. You'll say 'please no stop it's too much software we can't take it anymore'"
 Soumitra Shewale, Dev Secretary
+
 ---
 layout: section
 ---
-
 
 # How do I join CRUX?
 CRUx holds inductions every semester to recruit new members.
