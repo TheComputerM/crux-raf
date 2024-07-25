@@ -201,6 +201,28 @@ layout: section
 class: text-center
 ---
 
+# Lex 
+
+An all in one app for all your academic needs. 
+
+<img src="/assets/backgrounds/blob4.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
+
+---
+layout: section
+class: text-center
+---
+
+# Torrent Client
+
+A Torrent Client written from scratch in pure Rust.
+
+<img src="/assets/backgrounds/blob7.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
+
+---
+layout: section
+class: text-center
+---
+
 # Game Engine
 
 A game engine written completely from scratch in C++ using OpenGL.
