@@ -201,19 +201,6 @@ layout: section
 class: text-center
 ---
 
-# Snap Sorter
-
-Machine learning based face ID and clustering to retrieve your photos from campus events
-
-https://github.com/crux-bphc/snap-sorter
-
-<img src="/assets/backgrounds/blob5.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
-
----
-layout: section
-class: text-center
----
-
 # Game Engine
 
 A game engine written completely from scratch in C++ using OpenGL.
