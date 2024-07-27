@@ -280,7 +280,7 @@ layout: section
 | **President**  | **CC Secretary** | **Dev Secretary**    |
 | ---------- | ------------ | ---------------- |
 | Mudit Somani | Varun Reddy    | Karthik Prakash |
-| 9717697767 | 7082410996   | 6309481575       |
+| 9920653004 | 8549850091   | 9597735353       |
 
 ---
 layout: statement
