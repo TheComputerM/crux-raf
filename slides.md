@@ -35,13 +35,13 @@ layout: bullets
 # We Cover All Things Programming
 
 - 🤓 Competitive Programming
-- 🎨 Design
+- 🔓 CTFs and Cyber Security
+- 🎨 Design (UI/UX)
 - 🕸️ Web Development
 - ⚒️ Systems Programming
 - 🤖 Machine Learning
 - 📱 App Development
 - 🎮 Game Development
-- 🔓 CTFs and Cyber Security
 <p class="text-neutral-400">... and many more domains</p>
 
 ---
@@ -52,10 +52,9 @@ layout: bullets
 
 We organize workshops and contests for students.
 
-- CodeDrift
+- Bootstrap (CC Workshop)
 - Binary Battles
 - CruXipher
-- Introduction to Machine Learning
 
 <p class="font-semibold border-t border-white/50 pt-4">
 Keep an eye out for us in the upcoming ATMoS tech fest!
@@ -70,7 +69,7 @@ We hold *Summer Groups* for:
 
 - Competitive Coding
 - Web Development
-- Android Development
+- UI/UX
 - Flutter
 - Python
 - Game Development
@@ -82,17 +81,21 @@ We hold *Summer Groups* for:
 layout: section
 ---
 
-# Achievements
+<br />
 
 ## ACM-ICPC
 
-- Qualified for the **World Finals** of ICPC
-- Team `Kuch_bhi` - **21st Rank at Pune/Gwalior Regionals**
+- Team `:(){ :|:& };:` participated in the **World Finals** of ICPC
+- Team `codeCruXaders` - **21st Rank at Pune/Gwalior Regionals**
 
-## GSOC 2023
+## CTF
 
-- **BookBrainz** - an open source bibliography database
-- **GNU** - open-source operating system and software ecosystem
+- **14th** in India according to CTFtime leaderboard.
+
+## GSOC 2024
+
+- **Dart** - a scalable language for apps on any platform
+- **UC OSPO** - open source initiative by the University of California
 
 ---
 layout: section
@@ -127,22 +130,9 @@ layout: intro-image-right
 image: ./assets/cms-app.png
 ---
 
-# CMS App
+# Summer Groups 2024
 
-<div>
-  <p>
-  Your snake friends might not notify you for surprise quizzes, but this app will.
-  </p>
-  <div class="flex gap-4">
-  <div class="flex flex-col items-center">
-  <img src="/assets/cms_qr.png" class="h-40">
-  <p>Android App</p>
-  </div>
-  <div class="flex flex-col items-center">
-  <img src="/assets/cms_qr_ios.png" class="h-40">
-  <p>iOS App</p>
-  </div></div>
-</div>
+https://github.com/crux-bphc/dev-summer-group-2024
 
 ---
 layout: intro-image-right
@@ -223,7 +213,7 @@ layout: section
 class: text-center
 ---
 
-# Game Engine
+# Lumos
 
 A game engine written completely from scratch in C++ using OpenGL.
 
@@ -233,14 +223,15 @@ A game engine written completely from scratch in C++ using OpenGL.
 layout: quote
 ---
 
-# "We're going to write so much software, you're going to be tired of all the software. You'll say 'please no stop it's too much software we can't take it anymore'"
-Soumitra Shewale, Dev Secretary
+# "work hard bro one day you got 7* coder codechef, international grandmaster on codeforces your cp skill beat Sundar Pichai and you become next CEO in google"
+
+Karthik Prakash, Dev Secretary
 
 ---
 layout: section
 ---
 
-# How do I join CRUX?
+## How do I join CRUX?
 CRUx holds inductions every semester to recruit new members.
 
 ## CRUX CC
@@ -248,6 +239,9 @@ A Competitive Programming contest is held to induct new members
 
 ## CRUX DEV
 You submit a link of your work and candidates are interviewed in a 3-step process
+
+## CRUX CTF
+A CTF contest is used to judge your proficiency
 
 ---
 layout: section
@@ -263,12 +257,19 @@ We are one of the only clubs that give you feedback on your work so that you can
 </p>
 
 ---
+layout: 3-images
+imageLeft: /assets/books/left.png
+imageTopRight: /assets/books/top-right.png
+imageBottomRight: /assets/books/bottom-right.png
+---
+
+---
 layout: section
 ---
 
 # Is it too late to start?
 
-We will hold Workshops year-round to help acquaint people with programming. We induct people from any year!
+We hold Workshops year-round to help acquaint people with programming. We induct people from any year!
 
 ---
 layout: section
@@ -278,7 +279,7 @@ layout: section
 
 | **President**  | **CC Secretary** | **Dev Secretary**    |
 | ---------- | ------------ | ---------------- |
-| Ansh Goyal | Rahul Jha    | Soumitra Shewale |
+| Mudit Somani | Varun Reddy    | Karthik Prakash |
 | 9717697767 | 7082410996   | 6309481575       |
 
 ---
