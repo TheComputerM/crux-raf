@@ -144,7 +144,7 @@ image: ./assets/rideshare-app.png
 <div>
   <p>
     <!--TODO: put in the right caption-->
-    lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit amet lorem ipsum dolor sit 
+    Say goodbye to the hassles of solo travel with our comprehensive app that seamlessly connects students looking to share rides to and from the campus.
   </p>
   <div class="flex flex-col items-center">
       <!--TODO: update this QR-->
