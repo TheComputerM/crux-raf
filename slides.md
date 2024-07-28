@@ -127,10 +127,12 @@ Helped 2.2k users make 3.2k timetables in two days. Hopefully helped you during 
 
 ---
 layout: intro-image-right
-image: ./assets/cms-app.png
+image: ./assets/dev-summer-group-qr.png
 ---
 
 # Summer Groups 2024
+resources and excercises we've put together for our annual summer group,
+aimed at helping you master the concepts in web dev, ui/ux and machine learning.
 
 https://github.com/crux-bphc/dev-summer-group-2024
 
@@ -143,7 +145,6 @@ image: ./assets/rideshare-app.png
 
 <div>
   <p>
-    <!--TODO: put in the right caption-->
     Say goodbye to the hassles of solo travel with our comprehensive app that seamlessly connects students looking to share rides to and from the campus.
   </p>
   <div class="flex flex-col items-center">
