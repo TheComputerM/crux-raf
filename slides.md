@@ -148,21 +148,21 @@ image: ./assets/rideshare-app.png
   </p>
   <div class="flex flex-col items-center">
       <!--TODO: update this QR-->
-      <img src="/assets/cms_qr.png" class="h-40"> 
+      <img src="/assets/rideshare_qr.png" class="h-40"> 
       <p>Android App</p>
   </div>
 </div>
-
----
-layout: intro-image-right
-image: ./assets/dsa_qr.png
----
-
-# DSA TRAINING 2023
-
-Compiled Resources on Various DSA Topics 
-
-https://github.com/crux-bphc/DSA-Training-2023
+<!---->
+<!-- --- -->
+<!-- layout: intro-image-right -->
+<!-- image: ./assets/dsa_qr.png -->
+<!-- --- -->
+<!---->
+<!-- # DSA TRAINING 2023 -->
+<!---->
+<!-- Compiled Resources on Various DSA Topics  -->
+<!---->
+<!-- https://github.com/crux-bphc/DSA-Training-2023 -->
 
 ---
 layout: intro-image-right
