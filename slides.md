@@ -90,7 +90,7 @@ layout: section
 
 ## CTF
 
-- **14th** in India according to CTFtime leaderboard.
+- **11th** in India according to CTFtime leaderboard.
 
 ## GSOC 2024
 
@@ -131,10 +131,21 @@ image: ./assets/dev-summer-group-qr.png
 ---
 
 # Summer Groups 2024
-resources and excercises we've put together for our annual summer group,
-aimed at helping you master the concepts in web dev, ui/ux and machine learning.
+Resources and Excercises we've put together for our annual Development Summer Group,
+aimed at helping you master the concepts in Web Dev, UI/UX and Machine Learning.
 
 https://github.com/crux-bphc/dev-summer-group-2024
+
+---
+layout: intro-image-right
+image: ./assets/bootstrap_qr.png
+---
+
+# Bootstrap 2024
+
+Resources and Exercices compiled for Bootstrap Summer Group 2024, in order to guide people looking to learn Competitive Programming.
+
+https://github.com/crux-bphc/crux-bootstrap-2024
 
 ---
 layout: intro-image-right
@@ -153,17 +164,6 @@ image: ./assets/rideshare-app.png
       <p>App</p>
   </div>
 </div>
-<!---->
-<!-- --- -->
-<!-- layout: intro-image-right -->
-<!-- image: ./assets/dsa_qr.png -->
-<!-- --- -->
-<!---->
-<!-- # DSA TRAINING 2023 -->
-<!---->
-<!-- Compiled Resources on Various DSA Topics  -->
-<!---->
-<!-- https://github.com/crux-bphc/DSA-Training-2023 -->
 
 ---
 layout: intro-image-right
