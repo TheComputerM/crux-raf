@@ -90,7 +90,7 @@ layout: section
 
 ## CTF
 
-- **14th** in India according to CTFtime leaderboard.
+- **11th** in India according to CTFtime leaderboard.
 
 ## GSOC 2024
 
