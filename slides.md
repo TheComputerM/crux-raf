@@ -161,7 +161,7 @@ image: ./assets/rideshare-app.png
   <div class="flex flex-col items-center">
       <!--TODO: update this QR-->
       <img src="/assets/rideshare_qr.png" class="h-40"> 
-      <p>Android App</p>
+      <p>App</p>
   </div>
 </div>
 
