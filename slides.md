@@ -199,6 +199,19 @@ An all in one app for all your academic needs.
 <img src="/assets/backgrounds/blob4.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
 
 ---
+layout: intro-image-right
+image:  ./assets/bitsgpt.png
+---
+::before::
+
+<img src="/assets/backgrounds/blob5.png" class="absolute inset-x-0 bottom-0 w-screen opacity-40" />
+
+::default::
+
+# BitsGPT 
+Your campus buddy chatbot for advice, resources and making student life easier.
+
+---
 layout: section
 class: text-center
 ---
